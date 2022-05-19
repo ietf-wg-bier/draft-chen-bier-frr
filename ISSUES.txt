@@ -1,1 +1,5 @@
-the comments from mailing list need to be solved: https://mailarchive.ietf.org/arch/msg/bier/_hkJHD_hur1KqibUlDOgMf0R3Mc/;
+generally, the comments from mailing list need to be solved: https://mailarchive.ietf.org/arch/msg/bier/_hkJHD_hur1KqibUlDOgMf0R3Mc/;
+As pointed out in Greg’s email, there is no architecture section in the draft.
+As pointed out in Greg’s email, there is no explicit description of "BIER inheriting FRR functions from unicast". 
+The description of ECMP can also provide FRR protection needs to be added in the draft.
+Language improvement is needed for better understanding. The draft needs more review.
